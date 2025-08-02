@@ -8,7 +8,7 @@ A budding Fullstack developer on a journey to master the art of coding. With a d
 
 🚀 I believe that every line of code is a step toward creating something amazing. As a beginner, I’m all about experimenting, learning from mistakes, and sharing my progress. I’m passionate about building user-friendly interfaces and creating dynamic applications that make the web a more accessible place.
 
-- 🌱 Currently learning: React Js.
+- 🌱 Currently learning: DSA.
 - 🌍 Languages: Programming language JavaScript and Human language English, Telugu, Tamil.
 - 📫 How to reach me: pokkimgarisrihari5@gmail.com | 6301089468.
 - ⚡ Fun fact: Just a beginner looking for bugs-please don't report me. 
