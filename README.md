@@ -4,7 +4,7 @@
 
 ## About Me 🚀
 
-A budding Fullstack developer on a journey to master the art of coding. Currently pursuing a B-tech in computer science, I’ve dived into both front-end and back-end technologies. So far, I’ve learned Frontend like HTML, CSS, JavaScript and react, Backend like node, express and Database mongoDB!
+A budding Fullstack developer on a journey to master the art of coding. Currently pursuing a B-tech in computer science, I’ve dived into both front-end and back-end technologies. So far, I’ve learned Frontend like HTML, CSS, JavaScript and react, Backend like node, express and mongoDB!
 
 🚀 I believe that every line of code is a step toward creating something amazing. As a beginner, I’m all about experimenting, learning from mistakes, and sharing my progress. I’m passionate about building user-friendly interfaces and creating dynamic applications that make the web a more accessible place.
 
