@@ -8,7 +8,7 @@ A budding Fullstack developer on a journey to master the art of coding. Currentl
 
 🚀 I believe that every line of code is a step toward creating something amazing. As a beginner, I’m all about experimenting, learning from mistakes, and sharing my progress. I’m passionate about building user-friendly interfaces and creating dynamic applications that make the web a more accessible place.
 
-- 🌱 Currently learning: DSA.
+- 🌱 Currently learning: Performance Optiimization .
 - 📫 How to reach me: pokkimgarisrihari5@gmail.com. 
 - ⚡ Fun fact: Just a beginner looking for bugs-please don't report me. 
 
