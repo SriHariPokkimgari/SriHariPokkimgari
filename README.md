@@ -16,4 +16,4 @@ Let’s connect and code together!
 
 ## My Skills 🧠
 - FrontEnd :- html, css, javascript and react.
-- BackEnd  :- node, express and database mongoDB.
+- BackEnd  :- node, express and database mongoDB Postgresql.
