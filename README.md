@@ -17,4 +17,6 @@ Let’s connect and code together!
 ## My Skills 🧠
 - Language :- javascript, typescript.
 - FrontEnd :- html, css, javascript and react.
-- BackEnd  :- node, express and database mongoDB, Postgresql.
+- BackEnd  :- node.js, express.js, REST API's,                  and JWT Authentication.
+- Database :- Postgresql, MongoDB, ans Supabase.
+- Tools.   :- Git, GitHub, Postman, and Figma.
